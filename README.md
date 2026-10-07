@@ -4,9 +4,10 @@
 ## Aperçu de la plateforme
 
 ### Authentification
-<img src="welcome-interface.png" alt="Page d'accueil de la plateforme TestoHire" width="700">
+
 <img src="login-register-interface.png" alt="Interface de connexion et d'inscription" width="700">
 <img src="registration-email.png" alt="Email de bienvenue après l'inscription" width="700">
+<img src="welcome-interface.png" alt="Page d'accueil de la plateforme TestoHire" width="700">
 
 ### Côté candidat
 <img src="extract-cv-interface.png" alt="Extraction automatique du profil depuis le CV" width="700">
