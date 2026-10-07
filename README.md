@@ -1,1 +1,1 @@
-# skill-matching-assessemnt-platform
+# skill-matching-assessement-platform
