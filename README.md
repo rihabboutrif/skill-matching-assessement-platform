@@ -31,4 +31,4 @@
 <img src="chat-interface.png" alt="Chat en temps réel entre recruteur et candidat" width="700">
 
 ## Présentation
-[Télécharger la présentation du projet](presentation.pptx)
+[Télécharger la présentation du projet](Presentation.pptx)
